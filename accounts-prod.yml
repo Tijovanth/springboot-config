@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod webhook APIs "
+  message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "Ranga - Technical Lead"
     email: "ranga@gmail.com"
