@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Eazy Bank cards Prod related Apis"
+  message: "Welcome to Eazy Bank cards Prod related webhook Apis"
   contactDetails:
     name: "Tijovanth - Lead"
     email: "tijovanth83@gmail.com"
